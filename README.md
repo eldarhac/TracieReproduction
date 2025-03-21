@@ -1,3 +1,8 @@
+Reproduction of:
+https://github.com/allenai/tracie
+
+For final project in Bar Ilan university MSc course Advanced AI with Prof. Sarit Kraus
+
 Running prerequisites:
 
 - [x] Python 3.8
